@@ -5,7 +5,7 @@
     <h3>Your contact page.</h3>
     <address>
         <br />
-        Овчинников Вячеслав Анатольевич local2(br)<br />
+        Овчинников Вячеслав Анатольевич local2 2(br)<br />
         <abbr title="Phone">P:</abbr>
         +7(91224)92697
     </address>
