@@ -5,7 +5,11 @@
     <h3>Your contact page.</h3>
     <address>
         <br />
+<<<<<<< HEAD
         Овчинников Вячеслав Анатольевич changhe 2 local 1 <br />
+=======
+        Овчинников Вячеслав Анатольевич local 2<br />
+>>>>>>> 6617bc3... change contact local 2
         <abbr title="Phone">P:</abbr>
         +7(91224)92697
     </address>
