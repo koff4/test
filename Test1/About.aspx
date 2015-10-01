@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Справочник товаров change local 2</h3>
+    <h3>Справочник товаров local 1</h3>
     <p></p>
 </asp:Content>
